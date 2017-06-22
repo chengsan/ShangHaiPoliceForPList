@@ -17,18 +17,18 @@
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
-                        <key>http://kcyp-h5.shia.org.cn:8080/LEAP/KCKP/Web/shkckp/policeapp/img/logo.png</key>
+                        <key></key>
                         <true/>
                         <key>url</key>
-                        <string></string>
+                        <string>http://kcyp-h5.shia.org.cn:8080/LEAP/KCKP/Web/shkckp/policeapp/img/logo.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>display-image</string>
-                        <key>http://kcyp-h5.shia.org.cn:8080/LEAP/KCKP/Web/shkckp/policeapp/img/logo.png</key>
+                        <key></key>
                         <true/>
                         <key>url</key>
-                        <string></string>
+                        <string>http://kcyp-h5.shia.org.cn:8080/LEAP/KCKP/Web/shkckp/policeapp/img/logo.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
