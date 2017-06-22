@@ -17,7 +17,7 @@
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
-                        <key></key>
+                        <key>needs-shine</key>
                         <true/>
                         <key>url</key>
                         <string>http://kcyp-h5.shia.org.cn:8080/LEAP/KCKP/Web/shkckp/policeapp/img/logo.png</string>
@@ -25,7 +25,7 @@
                     <dict>
                         <key>kind</key>
                         <string>display-image</string>
-                        <key></key>
+                        <key>needs-shine</key>
                         <true/>
                         <key>url</key>
                         <string>http://kcyp-h5.shia.org.cn:8080/LEAP/KCKP/Web/shkckp/policeapp/img/logo.png</string>
